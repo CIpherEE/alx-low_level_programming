@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main prints the word we want
+/**
+ * main - entry point 
  * puts:prints program
  * Return:0
  */
