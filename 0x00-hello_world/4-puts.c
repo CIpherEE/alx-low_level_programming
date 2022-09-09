@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /**
  * main prints the word we want
  * puts:prints program
