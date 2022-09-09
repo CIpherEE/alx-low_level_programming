@@ -1,8 +1,9 @@
 #include <stdio.h>
-/**
+
+/*
  * main prints the word we want
  * puts:prints program
- * Return:Zero
+ * Return:0
  */
 int main(void)
 {
