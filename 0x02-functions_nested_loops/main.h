@@ -1,5 +1,6 @@
 #ifndef _main_H_
 #define _main_H_
+#include <stdio.h>
 
 int_putchar(char c);
 void print_aplhabet(void);
