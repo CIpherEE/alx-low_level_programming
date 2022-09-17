@@ -1,20 +1,3 @@
-TechByDami
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x04-more_functions_nested_loops/9-fizz_buzz.c
-@TechByDami
-TechByDami Print Fizz-Buzz in 1 to 100 🌍🏆🇳🇬🔥
- 1 contributor
-Executable File  30 lines (26 sloc)  595 Bytes
-
 #include <stdio.h>
 
 /**
