@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * reset_to_9 - Resets the valuse of any int through it's pointer
+ * 0-reset_to_9 - Resets the valuse of any int through it's pointer
+ * 0-reset_to_9 - same as the stuff up
  * @n: pointer to int
  * Return: void
  */
