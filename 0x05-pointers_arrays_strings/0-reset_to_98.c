@@ -2,10 +2,11 @@
 #include "main.h"
 
 /**
- * 0-reset_to_9 - Resets the valuse of any int through it's pointer
- * reset_to_98: same as the stuff up
- * @n: pointer to int
- * Return: void
+ * reset_to_98 - update int values
+ * @n: Takes the pointer of int to be updated
+ *
+ * :The function replaces the current value of an int with the desired one
+ * Return: (void);
  */
 
 void reset_to_98(int *n)
