@@ -3,7 +3,7 @@
 
 /**
  * 0-reset_to_9 - Resets the valuse of any int through it's pointer
- * 0-reset_to_9: same as the stuff up
+ * reset_to_98.c: same as the stuff up
  * @n: pointer to int
  * Return: void
  */
